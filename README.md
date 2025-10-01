@@ -2,11 +2,6 @@
 
 **Aroura: AI Upskilling Roadmap for Opportunity & Readiness Assessment**
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org)
-[![Gradio](https://img.shields.io/badge/Gradio-UI-orange)](https://www.gradio.app/)
-[![Gemini API](https://img.shields.io/badge/Gemini_API-Google-4285F4?logo=google&logoColor=white)](https://ai.google.dev/gemini-api)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%—%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces)
-
 ---
 
 ### [**View the Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/KawserMahamudJunyed/Aurora)
