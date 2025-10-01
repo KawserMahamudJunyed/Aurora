@@ -1,0 +1,4 @@
+gradio
+PyPDF2
+google-generativeai
+google-api-core
