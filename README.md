@@ -8,7 +8,7 @@
 
 Aurora is an AI-powered career navigation platform designed to solve Bangladesh's critical graduate underemployment problem. By analyzing a user's profile against the demands of the job market, Aurora provides a personalized roadmap to bridge the skills gap.
 
-The application is built with a modular, three-part architecture—**Benchmark**, **Elevate**, and **Ace**—all of which are fully functional and powered by live AI.
+The application is built with a modular, three-part architecture: **Benchmark**, **Elevate**, and **Ace**. All three modules are fully functional and powered by live AI.
 
 ---
 Live Demo
