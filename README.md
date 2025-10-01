@@ -1,8 +1,8 @@
 # Aurora
 
-**Aroura: AI Upskilling Roadmap for Opportunity & Readiness Assessment**
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Aroura: AI Upskilling Roadmap for Opportunity & Readiness Assessment**
 
 ---
 
