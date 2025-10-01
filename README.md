@@ -4,24 +4,25 @@
 
 **Aroura: AI Upskilling Roadmap for Opportunity & Readiness Assessment**
 
----
 
-### [**View the Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/KawserMahamudJunyed/Aurora)
-
----
-
-## **Project Overview**
 
 Aurora is an AI-powered career navigation platform designed to solve Bangladesh's critical graduate underemployment problem. By analyzing a user's profile against the demands of the job market, Aurora provides a personalized roadmap to bridge the skills gap.
 
 The application is built with a modular, three-part architecture—**Benchmark**, **Elevate**, and **Ace**—all of which are fully functional and powered by live AI.
 
+---
+Live Demo
+
+**[View the Live Demo](https://huggingface.co/spaces/KawserMahamudJunyed/Aurora)**
+
+---
 ## **Key Features**
 
 * **Benchmark Module:** A powerful diagnostic engine that analyzes a user's CV against a live job description to generate a detailed "Skill Gap Report."
 * **Elevate Module:** A personalized learning co-pilot that takes a user's identified skill gaps and generates a custom learning path with course recommendations.
 * **Ace Module:** An AI interview coach that generates tailored interview questions based on a job description to help users practice and prepare.
 
+---
 ## **Technology Stack**
 
 * **AI Development Partners:** This project was built with the assistance of **Google Gemini** and **Grok**.
@@ -30,6 +31,7 @@ The application is built with a modular, three-part architecture—**Benchmark**
 * **Core AI:** Live Analysis via Google Gemini API
 * **Libraries:** PyPDF2
 
+---
 ## **Future Roadmap**
 
 The vision for Aurora extends beyond the current version. Key future developments include:
