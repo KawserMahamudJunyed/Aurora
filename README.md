@@ -2,6 +2,8 @@
 
 **Aroura: AI Upskilling Roadmap for Opportunity & Readiness Assessment**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 ### [**View the Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/KawserMahamudJunyed/Aurora)
